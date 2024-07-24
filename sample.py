@@ -1,6 +1,6 @@
 
-print("mysore")
-print("ATME")
-print("Keerthana")
+print("banglore")
+print("vvce")
+print("KeerthanaM")
 
 
